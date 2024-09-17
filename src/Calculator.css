@@ -1,0 +1,10 @@
+.calc-container {
+    display: flex;
+    background: lightgray;
+    border: solid;
+    border-color: black;
+    border-radius: 10px;
+    width: 350px;
+    height: 400px;
+    flex-direction: column;
+}
