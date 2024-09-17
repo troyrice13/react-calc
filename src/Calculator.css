@@ -1,10 +1,12 @@
 .calc-container {
     display: flex;
-    background: lightgray;
-    border: solid;
-    border-color: black;
+    background: rgb(0, 0, 0);
     border-radius: 10px;
     width: 350px;
-    height: 400px;
+
     flex-direction: column;
+    justify-content: flex-start;
+    padding-top: 10px;
+    align-items: center;
 }
+

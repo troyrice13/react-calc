@@ -9,12 +9,11 @@ export default function Calculator() {
 
     return(
         <div className='calc-container'>
-            <div>
+            <div className="display-container">
                 <Display currentValue={currentValue} total={total} />
             </div>
-            <div>
-                <NumPad />
-            </div>
+ 
+            <NumPad />
         </div>
     )
 }
