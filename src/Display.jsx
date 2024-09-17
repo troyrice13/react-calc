@@ -5,7 +5,7 @@ export default function Display({ currentValue, total }) {
     return (
         <div className="main-container">
         <div className="display-container">
-            <h2 className="display-value">{total}</h2>
+            <h1 className="display-value">{total}</h1>
         </div>
         </div>
     )

@@ -3,7 +3,7 @@
     grid-template-columns: repeat(4, 1fr);
     grid-row-gap: 15px;
     grid-column-gap: 10px;
-    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 button {
@@ -15,6 +15,7 @@ button {
     width: 65px;
     color: #fff;
     background-color: #333333;
+    font-size: large;
 }
 
 button:active, button:focus {

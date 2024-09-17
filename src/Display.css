@@ -2,11 +2,13 @@
     display: flex;
     justify-content: flex-end;
     color: white;
-    border: solid;
     width: 300px;
     border-radius: 10px;
 }
 
 .display-value {
     margin-right: 5px;
+    font-size:4rem;
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    font-weight: bolder;
 }
